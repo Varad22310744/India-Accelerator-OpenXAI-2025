@@ -1,5 +1,5 @@
 ## Nextjs Ollama Template
-
+//changes
 Template to make a Nextjs + Ollama app that runs on OpenxAI (and any other NixOS infrastructure).
 
 ## Modification Steps
